@@ -17,7 +17,7 @@ Web accessibility is an increasingly important consideration for businesses, ens
 
   
 
-#### What is Code Refactoring?
+#### Code Refactoring :
 
 * Code Refactoring is the process of clarifying and simplifying the design of existing code, without changing its behavior.
 
@@ -62,3 +62,7 @@ Web accessibility is an increasingly important consideration for businesses, ens
 8. Consolidated CSS selectors having same attributes.
 9. Consolidated CSS using shorthand property. 
 10. Added comments before each selectors in CSS.
+
+## Deployed Website: 
+
+* https://github.com/GauriKhandke/gauri-code-refactor
