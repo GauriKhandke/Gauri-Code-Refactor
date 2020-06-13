@@ -65,4 +65,4 @@ Web accessibility is an increasingly important consideration for businesses, ens
 
 ## Deployed Website: 
 
-* https://github.com/GauriKhandke/gauri-code-refactor
+* https://gaurikhandke.github.io/gauri-code-refactor/
